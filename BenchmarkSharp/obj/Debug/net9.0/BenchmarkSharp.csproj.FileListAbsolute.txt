@@ -1,0 +1,14 @@
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\bin\Debug\net9.0\BenchmarkSharp.exe
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\bin\Debug\net9.0\BenchmarkSharp.deps.json
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\bin\Debug\net9.0\BenchmarkSharp.runtimeconfig.json
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\bin\Debug\net9.0\BenchmarkSharp.dll
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\bin\Debug\net9.0\BenchmarkSharp.pdb
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\obj\Debug\net9.0\BenchmarkSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\obj\Debug\net9.0\BenchmarkSharp.AssemblyInfoInputs.cache
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\obj\Debug\net9.0\BenchmarkSharp.AssemblyInfo.cs
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\obj\Debug\net9.0\BenchmarkSharp.csproj.CoreCompileInputs.cache
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\obj\Debug\net9.0\BenchmarkSharp.dll
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\obj\Debug\net9.0\refint\BenchmarkSharp.dll
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\obj\Debug\net9.0\BenchmarkSharp.pdb
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\obj\Debug\net9.0\BenchmarkSharp.genruntimeconfig.cache
+D:\Others\DevProjects\C# Projects\BenchmarkSharp\BenchmarkSharp\obj\Debug\net9.0\ref\BenchmarkSharp.dll
